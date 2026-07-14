@@ -1,14 +1,7 @@
 # 🎮 Quiz Area
 
 > A modern, interactive quiz game built with **Python** and **Streamlit** featuring a gaming-inspired UI, multiple quiz categories, streak-based scoring, and an engaging user experience.
-
----
-
-## 🚀 Live Demo
-
-🔗 **Demo:** *(Add your Streamlit app link here after deployment)*
-
----
+----
 
 ## 📖 About the Project
 
