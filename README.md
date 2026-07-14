@@ -92,15 +92,15 @@ streamlit run quiz_game_app.py
 ## 📸 Application Preview
 <h2>🏠 Home Screen</h2>
 
-<img src="assets/home.png" width="800">
+<img src="home.png" width="800">
 
 <h2>❓ Quiz Screen</h2>
 
-<img src="assets/quiz.png" width="800">
+<img src="quiz.png" width="800">
 
 <h2>🏆 Result Screen</h2>
 
-<img src="assets/result.png" width="800">
+<img src="result.png" width="800">
 
 
 ---
